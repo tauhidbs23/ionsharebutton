@@ -1,5 +1,7 @@
 {
   "name": "ionsharebutton",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
